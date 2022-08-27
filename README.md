@@ -1,7 +1,7 @@
 [![MasterHead](https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif)](https://tobiloba.vercel.app)
 <h1 align="center">Hi 👋, I'm Tobiloba Lawal</h1>
 <h3 align="center">I'm a Nigerian-based web developer and front‑end engineer focused on creating clean and user‑friendly interfaces, I am enthusiastic about building great programming that improves the lives of everyone around me.</h3>
-<img align='right' alt='coding' with='400' src='https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif'>
+<img align='right' alt='coding' with='200' src='https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toseth97&label=Profile%20views&color=0e75b6&style=flat" alt="toseth97" /> </p>
 
 <p align="left"> <a href="https://twitter.com/toseth_official" target="blank"><img src="https://img.shields.io/twitter/follow/toseth_official?logo=twitter&style=for-the-badge" alt="toseth_official" /></a> </p>
